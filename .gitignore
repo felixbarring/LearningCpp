@@ -28,4 +28,4 @@
 *.app
 
 # Directories
-/build
+build/
